@@ -1,0 +1,15 @@
+codeerax/
+│
+├── brain/
+│   ├── main.py
+│   ├── engines/
+│   │     └── feature_engine.py
+│   └── schemas.py
+│
+├── heart/
+│   ├── main.py
+│   ├── engine.py
+│   └── model/ (optional ML)
+│
+└── shared/
+    └── task_queue.py
